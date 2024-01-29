@@ -1,8 +1,7 @@
 ### Hi 👋, I'm Matias
 #### I am a Doctoral Scholar, Sound Engineer and enthusiastic programmer.
-![I am a doctoral scholar, Sound Engineer and enthusiastic programmer.](https://static.vecteezy.com/system/resources/thumbnails/000/701/690/small/abstract-polygonal-banner-background.jpg)
 
-I carry out research and development aimed at Acoustics, the Internet of Things, digital signal processing algorithms and personal projects.
+I carry out research and development projects aimed at Acoustics, the Internet of Things, digital signal processing algorithms and some personal stuff.
 
 Skills: Python | C++ | C
 
