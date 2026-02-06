@@ -1,16 +1,54 @@
 ### Hi 👋, I'm Matias
-#### I am a Doctoral Scholar, Sound Engineer and enthusiastic programmer.
 
-I carry out research and development projects aimed at Acoustics, the Internet of Things, digital signal processing algorithms and some personal stuff.
+#### 🎧 Sound Engineer | 🤖 AI Master's Student | 💻 DSP & NLP Developer
 
-Skills: Python | C++ | C
+I'm a Sound Engineer with a strong background in **Acoustics, Digital Signal Processing (DSP)** and **Speech Analysis**, currently pursuing a **Master’s Degree in Artificial Intelligence**.  
+I work on **research and development projects** focused on audio, speech, and computational tools applied to neuroscience and engineering.
 
-- 🔭 I’m currently working on Wireless Environment Sensor Network 
-- 🌱 I’m currently learning FreeRTOS
+---
 
-[![MatiasCaccia's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasCaccia)](https://github.com/anuraghazra/github-readme-stats)
+### 🧠 What I do
+- Audio & Speech Signal Processing  
+- Digital Signal Processing (DSP)  
+- Natural Language Processing (NLP)  
+- Research & Development (R&D)  
+- Applied AI for speech and cognition  
+- Teaching & academic mentoring  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MatiasCaccia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/matiascaccia//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://matiascaccia.wordpress.com/)  
+### 🛠️ Skills
+**Languages:**  
+Python | C++ | C | MATLAB  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCaccia)](https://github.com/anuraghazra/github-readme-stats)
+**Technical Areas:**  
+DSP | Acoustics | Audio & Speech Processing | Machine Learning | NLP | Embedded Systems  
+
+**Tools & Extras:**  
+FreeRTOS | LaTeX | CAD | PCB Design | 3D Printing | SketchUp  
+
+---
+
+### 🔭 Current work
+- Research & Development Engineer working on **speech-based neurocognitive metrics**
+- Speech Analyst (DSP + NLP) in neuroscience research
+- University Professor teaching **Computational Thinking**
+- Development of **wireless acoustic/environmental sensor networks**
+
+### 🌱 Currently learning
+- FreeRTOS  
+- Advanced AI models for speech analysis  
+
+---
+
+### 📊 GitHub Stats
+[![MatiasCaccia's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasCaccia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCaccia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌐 Connect with me
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"/>](https://github.com/MatiasCaccia)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"/>](https://www.linkedin.com/in/matiascaccia/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40"/>](https://matiascaccia.wordpress.com/)
