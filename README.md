@@ -35,17 +35,6 @@ FreeRTOS | LaTeX | CAD | PCB Design | 3D Printing | SketchUp
 - University Professor teaching **Computational Thinking**
 - Development of **wireless acoustic/environmental sensor networks**
 
-### 🌱 Currently learning
-- FreeRTOS  
-- Advanced AI models for speech analysis  
-
----
-
-### 📊 GitHub Stats
-[![MatiasCaccia's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasCaccia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCaccia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 🌐 Connect with me
